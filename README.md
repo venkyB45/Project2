@@ -30,8 +30,8 @@ It can be seen that steady state is obtained around 44.6 and becomes stable ther
 ### sensitivity analysis
 To test the model's sensitivity to each parameter, an analysis of each was performed by slight perturbation of the parameter value. First, a 1% perturbation of each was tested. The resulting models were not distinct enough, therefore a 5% perturbation was tried. The following figures display the results of this analysis.
 
-![ODE](outputs/sensitivity_1%.png) 
-![ODE](outputs/sensitivity_5%.png) 
+![ODE](outputs/sensitivity_1.png) 
+![ODE](outputs/sensitivity_5.png) 
 
 It can be seen that alpha sensitivity is very low as there is no deviation even though it depends directly in equation.
 ### Global sesnsitivity
